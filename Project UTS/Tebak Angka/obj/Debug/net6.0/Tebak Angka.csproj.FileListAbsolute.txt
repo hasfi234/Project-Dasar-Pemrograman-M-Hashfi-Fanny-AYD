@@ -1,0 +1,15 @@
+D:\ngoding pt. 2\Tebak Angka\bin\Debug\net6.0\Tebak Angka.exe
+D:\ngoding pt. 2\Tebak Angka\bin\Debug\net6.0\Tebak Angka.deps.json
+D:\ngoding pt. 2\Tebak Angka\bin\Debug\net6.0\Tebak Angka.runtimeconfig.json
+D:\ngoding pt. 2\Tebak Angka\bin\Debug\net6.0\Tebak Angka.dll
+D:\ngoding pt. 2\Tebak Angka\bin\Debug\net6.0\Tebak Angka.pdb
+D:\ngoding pt. 2\Tebak Angka\obj\Debug\net6.0\Tebak Angka.csproj.AssemblyReference.cache
+D:\ngoding pt. 2\Tebak Angka\obj\Debug\net6.0\Tebak Angka.GeneratedMSBuildEditorConfig.editorconfig
+D:\ngoding pt. 2\Tebak Angka\obj\Debug\net6.0\Tebak Angka.AssemblyInfoInputs.cache
+D:\ngoding pt. 2\Tebak Angka\obj\Debug\net6.0\Tebak Angka.AssemblyInfo.cs
+D:\ngoding pt. 2\Tebak Angka\obj\Debug\net6.0\Tebak Angka.csproj.CoreCompileInputs.cache
+D:\ngoding pt. 2\Tebak Angka\obj\Debug\net6.0\Tebak Angka.dll
+D:\ngoding pt. 2\Tebak Angka\obj\Debug\net6.0\refint\Tebak Angka.dll
+D:\ngoding pt. 2\Tebak Angka\obj\Debug\net6.0\Tebak Angka.pdb
+D:\ngoding pt. 2\Tebak Angka\obj\Debug\net6.0\Tebak Angka.genruntimeconfig.cache
+D:\ngoding pt. 2\Tebak Angka\obj\Debug\net6.0\ref\Tebak Angka.dll

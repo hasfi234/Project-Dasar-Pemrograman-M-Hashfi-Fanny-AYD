@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>To Do App with VueJS</title>
+    <script src="https://cdn.jsdelivr.net/npm/vue@2/dist/vue.js"></script>
+</head>
+<body>
+    <div id="app">
+       <h1>To Do App</h1>
+        <input type="text" v-model="todo">
+        <input type="submit" value="Add List" v-on:click="addTodo">
+        <p v-if="!list.length">No List</p>
+        <ul v-if="list.length">
+            <li v-for="todo in list">{{ todo.name }} - <a href="#" v-on:click="removeItem(todo)"><button>Remove list</button> </a></li>
+        </ul>
+    </div>
+    
+    <script>
+        new Vue({
+            el:"#app",
+            data:{
+                todo:'',
+                list:[]
+            },
+            methods: {
+                addTodo: function () {
+                    var todo = {
+                        id: Date.now(),
+                        name: this.todo
+                    };
+
+                    this.list.push(todo);
+
+                    this.todo = '';
+                },
+                removeItem: function (todo) {
+                    var newList = this.list.filter(function (i) {
+                        return todo.id !== i.id;
+                    });
+
+                    this.list = newList;
+                }
+            }
+        });
+    </script>
+</body>
+</html>

@@ -1,0 +1,15 @@
+D:\ngoding pt. 2\Adventure Game\bin\Debug\net6.0\Adventure Game.exe
+D:\ngoding pt. 2\Adventure Game\bin\Debug\net6.0\Adventure Game.deps.json
+D:\ngoding pt. 2\Adventure Game\bin\Debug\net6.0\Adventure Game.runtimeconfig.json
+D:\ngoding pt. 2\Adventure Game\bin\Debug\net6.0\Adventure Game.dll
+D:\ngoding pt. 2\Adventure Game\bin\Debug\net6.0\Adventure Game.pdb
+D:\ngoding pt. 2\Adventure Game\obj\Debug\net6.0\Adventure Game.csproj.AssemblyReference.cache
+D:\ngoding pt. 2\Adventure Game\obj\Debug\net6.0\Adventure Game.GeneratedMSBuildEditorConfig.editorconfig
+D:\ngoding pt. 2\Adventure Game\obj\Debug\net6.0\Adventure Game.AssemblyInfoInputs.cache
+D:\ngoding pt. 2\Adventure Game\obj\Debug\net6.0\Adventure Game.AssemblyInfo.cs
+D:\ngoding pt. 2\Adventure Game\obj\Debug\net6.0\Adventure Game.csproj.CoreCompileInputs.cache
+D:\ngoding pt. 2\Adventure Game\obj\Debug\net6.0\Adventure Game.dll
+D:\ngoding pt. 2\Adventure Game\obj\Debug\net6.0\refint\Adventure Game.dll
+D:\ngoding pt. 2\Adventure Game\obj\Debug\net6.0\Adventure Game.pdb
+D:\ngoding pt. 2\Adventure Game\obj\Debug\net6.0\Adventure Game.genruntimeconfig.cache
+D:\ngoding pt. 2\Adventure Game\obj\Debug\net6.0\ref\Adventure Game.dll

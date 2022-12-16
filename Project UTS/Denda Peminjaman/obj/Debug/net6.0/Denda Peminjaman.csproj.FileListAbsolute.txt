@@ -1,0 +1,15 @@
+D:\ngoding pt. 2\Denda Peminjaman\bin\Debug\net6.0\Denda Peminjaman.exe
+D:\ngoding pt. 2\Denda Peminjaman\bin\Debug\net6.0\Denda Peminjaman.deps.json
+D:\ngoding pt. 2\Denda Peminjaman\bin\Debug\net6.0\Denda Peminjaman.runtimeconfig.json
+D:\ngoding pt. 2\Denda Peminjaman\bin\Debug\net6.0\Denda Peminjaman.dll
+D:\ngoding pt. 2\Denda Peminjaman\bin\Debug\net6.0\Denda Peminjaman.pdb
+D:\ngoding pt. 2\Denda Peminjaman\obj\Debug\net6.0\Denda Peminjaman.csproj.AssemblyReference.cache
+D:\ngoding pt. 2\Denda Peminjaman\obj\Debug\net6.0\Denda Peminjaman.GeneratedMSBuildEditorConfig.editorconfig
+D:\ngoding pt. 2\Denda Peminjaman\obj\Debug\net6.0\Denda Peminjaman.AssemblyInfoInputs.cache
+D:\ngoding pt. 2\Denda Peminjaman\obj\Debug\net6.0\Denda Peminjaman.AssemblyInfo.cs
+D:\ngoding pt. 2\Denda Peminjaman\obj\Debug\net6.0\Denda Peminjaman.csproj.CoreCompileInputs.cache
+D:\ngoding pt. 2\Denda Peminjaman\obj\Debug\net6.0\Denda Peminjaman.dll
+D:\ngoding pt. 2\Denda Peminjaman\obj\Debug\net6.0\refint\Denda Peminjaman.dll
+D:\ngoding pt. 2\Denda Peminjaman\obj\Debug\net6.0\Denda Peminjaman.pdb
+D:\ngoding pt. 2\Denda Peminjaman\obj\Debug\net6.0\Denda Peminjaman.genruntimeconfig.cache
+D:\ngoding pt. 2\Denda Peminjaman\obj\Debug\net6.0\ref\Denda Peminjaman.dll

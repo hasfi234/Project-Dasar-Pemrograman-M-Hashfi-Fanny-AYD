@@ -1,0 +1,15 @@
+D:\ngoding pt. 2\Permainan Suit\bin\Debug\net6.0\Permainan Suit.exe
+D:\ngoding pt. 2\Permainan Suit\bin\Debug\net6.0\Permainan Suit.deps.json
+D:\ngoding pt. 2\Permainan Suit\bin\Debug\net6.0\Permainan Suit.runtimeconfig.json
+D:\ngoding pt. 2\Permainan Suit\bin\Debug\net6.0\Permainan Suit.dll
+D:\ngoding pt. 2\Permainan Suit\bin\Debug\net6.0\Permainan Suit.pdb
+D:\ngoding pt. 2\Permainan Suit\obj\Debug\net6.0\Permainan Suit.csproj.AssemblyReference.cache
+D:\ngoding pt. 2\Permainan Suit\obj\Debug\net6.0\Permainan Suit.GeneratedMSBuildEditorConfig.editorconfig
+D:\ngoding pt. 2\Permainan Suit\obj\Debug\net6.0\Permainan Suit.AssemblyInfoInputs.cache
+D:\ngoding pt. 2\Permainan Suit\obj\Debug\net6.0\Permainan Suit.AssemblyInfo.cs
+D:\ngoding pt. 2\Permainan Suit\obj\Debug\net6.0\Permainan Suit.csproj.CoreCompileInputs.cache
+D:\ngoding pt. 2\Permainan Suit\obj\Debug\net6.0\Permainan Suit.dll
+D:\ngoding pt. 2\Permainan Suit\obj\Debug\net6.0\refint\Permainan Suit.dll
+D:\ngoding pt. 2\Permainan Suit\obj\Debug\net6.0\Permainan Suit.pdb
+D:\ngoding pt. 2\Permainan Suit\obj\Debug\net6.0\Permainan Suit.genruntimeconfig.cache
+D:\ngoding pt. 2\Permainan Suit\obj\Debug\net6.0\ref\Permainan Suit.dll

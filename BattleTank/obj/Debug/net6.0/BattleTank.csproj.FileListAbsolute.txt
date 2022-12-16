@@ -1,0 +1,15 @@
+D:\ngoding pt. 2\BattleTank\obj\Debug\net6.0\BattleTank.csproj.AssemblyReference.cache
+D:\ngoding pt. 2\BattleTank\obj\Debug\net6.0\BattleTank.GeneratedMSBuildEditorConfig.editorconfig
+D:\ngoding pt. 2\BattleTank\obj\Debug\net6.0\BattleTank.AssemblyInfoInputs.cache
+D:\ngoding pt. 2\BattleTank\obj\Debug\net6.0\BattleTank.AssemblyInfo.cs
+D:\ngoding pt. 2\BattleTank\obj\Debug\net6.0\BattleTank.csproj.CoreCompileInputs.cache
+D:\ngoding pt. 2\BattleTank\bin\Debug\net6.0\BattleTank.exe
+D:\ngoding pt. 2\BattleTank\bin\Debug\net6.0\BattleTank.deps.json
+D:\ngoding pt. 2\BattleTank\bin\Debug\net6.0\BattleTank.runtimeconfig.json
+D:\ngoding pt. 2\BattleTank\bin\Debug\net6.0\BattleTank.dll
+D:\ngoding pt. 2\BattleTank\bin\Debug\net6.0\BattleTank.pdb
+D:\ngoding pt. 2\BattleTank\obj\Debug\net6.0\BattleTank.dll
+D:\ngoding pt. 2\BattleTank\obj\Debug\net6.0\refint\BattleTank.dll
+D:\ngoding pt. 2\BattleTank\obj\Debug\net6.0\BattleTank.pdb
+D:\ngoding pt. 2\BattleTank\obj\Debug\net6.0\BattleTank.genruntimeconfig.cache
+D:\ngoding pt. 2\BattleTank\obj\Debug\net6.0\ref\BattleTank.dll

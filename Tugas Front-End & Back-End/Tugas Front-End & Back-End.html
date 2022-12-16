@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Tugas Front-End & Back-End</title>
+    <style>
+        body {
+            background-color: purple;
+        }
+        p.padding{
+            padding-top: 2cm;
+        }
+        p.padding2{
+            padding-top: 200%;
+        }
+        img{
+            display: block;
+            margin-left: auto;
+            margin-right: auto;
+        }
+    </style>
+</head>
+<body>
+    <img src="tugasdaspro.jpeg" width="375" height="450">
+    <p style="color:green">Belajar Dasar Pemrograman.</p>
+    <h1>KETERANGAN :</h1>
+    <P>Mahasiswa mata kuliah <b>Dasar Pemrograman</b> Program Studi <i>Teknik Informatika</i> <u>Universitas Riau</u></P>
+    <a href="https://www.w3schools.com/html/default.asp">Tutorial belajar HTML.</a>
+    <h1>Javascript</h1>
+    <p id="paragraf">Javascript membuat halaman web menjadi interaktif</p>
+    <button onclick="button()">Coba Klik!</button>
+    <script>
+        function button() {
+            document.getElementById("paragraf").innerHTML = 'Berhasil! Ini contoh implementasi Javascript'
+        }
+    </script>
+    <h1>Landing Page</h1>
+    <p>Warna background landing page ini adalah UNGU</p>
+    <p>Paragraf Awal.</p>
+    <p class="padding">Paragraf Tengah.</p>
+    <p class="padding2">Paragraf akhir.</p>
+    <h1>Universitas Riau</h1>
+    <p><img src="logo_unri.png" width="50" height="50">
+        Teknik Informatika
+        2022
+    </p>    
+</body>
+</html>

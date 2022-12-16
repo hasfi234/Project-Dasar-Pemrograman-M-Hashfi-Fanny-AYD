@@ -1,0 +1,15 @@
+D:\ngoding pt. 2\Nametag\bin\Debug\net6.0\Nametag.exe
+D:\ngoding pt. 2\Nametag\bin\Debug\net6.0\Nametag.deps.json
+D:\ngoding pt. 2\Nametag\bin\Debug\net6.0\Nametag.runtimeconfig.json
+D:\ngoding pt. 2\Nametag\bin\Debug\net6.0\Nametag.dll
+D:\ngoding pt. 2\Nametag\bin\Debug\net6.0\Nametag.pdb
+D:\ngoding pt. 2\Nametag\obj\Debug\net6.0\Nametag.csproj.AssemblyReference.cache
+D:\ngoding pt. 2\Nametag\obj\Debug\net6.0\Nametag.GeneratedMSBuildEditorConfig.editorconfig
+D:\ngoding pt. 2\Nametag\obj\Debug\net6.0\Nametag.AssemblyInfoInputs.cache
+D:\ngoding pt. 2\Nametag\obj\Debug\net6.0\Nametag.AssemblyInfo.cs
+D:\ngoding pt. 2\Nametag\obj\Debug\net6.0\Nametag.csproj.CoreCompileInputs.cache
+D:\ngoding pt. 2\Nametag\obj\Debug\net6.0\Nametag.dll
+D:\ngoding pt. 2\Nametag\obj\Debug\net6.0\refint\Nametag.dll
+D:\ngoding pt. 2\Nametag\obj\Debug\net6.0\Nametag.pdb
+D:\ngoding pt. 2\Nametag\obj\Debug\net6.0\Nametag.genruntimeconfig.cache
+D:\ngoding pt. 2\Nametag\obj\Debug\net6.0\ref\Nametag.dll

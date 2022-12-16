@@ -1,0 +1,15 @@
+C:\Users\User\OneDrive\Gambar\Acer\Dasar Pemrograman\obj\Debug\net6.0\Dasar Pemrograman.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Gambar\Acer\Dasar Pemrograman\obj\Debug\net6.0\Dasar Pemrograman.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Gambar\Acer\Dasar Pemrograman\obj\Debug\net6.0\Dasar Pemrograman.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Gambar\Acer\Dasar Pemrograman\obj\Debug\net6.0\Dasar Pemrograman.AssemblyInfo.cs
+C:\Users\User\OneDrive\Gambar\Acer\Dasar Pemrograman\obj\Debug\net6.0\Dasar Pemrograman.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Gambar\Acer\Dasar Pemrograman\bin\Debug\net6.0\Dasar Pemrograman.exe
+C:\Users\User\OneDrive\Gambar\Acer\Dasar Pemrograman\bin\Debug\net6.0\Dasar Pemrograman.deps.json
+C:\Users\User\OneDrive\Gambar\Acer\Dasar Pemrograman\bin\Debug\net6.0\Dasar Pemrograman.runtimeconfig.json
+C:\Users\User\OneDrive\Gambar\Acer\Dasar Pemrograman\bin\Debug\net6.0\Dasar Pemrograman.dll
+C:\Users\User\OneDrive\Gambar\Acer\Dasar Pemrograman\bin\Debug\net6.0\Dasar Pemrograman.pdb
+C:\Users\User\OneDrive\Gambar\Acer\Dasar Pemrograman\obj\Debug\net6.0\Dasar Pemrograman.dll
+C:\Users\User\OneDrive\Gambar\Acer\Dasar Pemrograman\obj\Debug\net6.0\refint\Dasar Pemrograman.dll
+C:\Users\User\OneDrive\Gambar\Acer\Dasar Pemrograman\obj\Debug\net6.0\Dasar Pemrograman.pdb
+C:\Users\User\OneDrive\Gambar\Acer\Dasar Pemrograman\obj\Debug\net6.0\Dasar Pemrograman.genruntimeconfig.cache
+C:\Users\User\OneDrive\Gambar\Acer\Dasar Pemrograman\obj\Debug\net6.0\ref\Dasar Pemrograman.dll
